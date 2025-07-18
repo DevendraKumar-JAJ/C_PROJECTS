@@ -32,15 +32,15 @@ A comprehensive calculator program written in C that calculates various properti
 
 ## Example Usage 📊
 
-#### Enter Shape Type    [      1_2D.      2_3D.      ]      :      1
+#### -Enter Shape Type    [      1_2D.      2_3D.      ]      :      1
 
-#### Enter shape name    [      1_for Rectangle.      2_for Square.      3_for Circle.      4_for Triangle.      5_for Rhombus      ]      :      1
+#### -Enter shape name    [      1_for Rectangle.      2_for Square.      3_for Circle.      4_for Triangle.      5_for Rhombus      ]      :      1
 
-#### Enter    [      1_for find Area.      2_for find Perimeter.      3_for find Diagonal.      4_for find Length.      5_for find Width.      ]      :      1
+#### -Enter    [      1_for find Area.      2_for find Perimeter.      3_for find Diagonal.      4_for find Length.      5_for find Width.      ]      :      1
 
-#### Enter Length of Rectangle.      :      10
-#### Enter Width of Rectangle.      :      5
-#### Area of Rectangle is =      50.000000
+#### -Enter Length of Rectangle.      :      10
+#### -Enter Width of Rectangle.      :      5
+#### -Area of Rectangle is =      50.000000
 
 
 ## Code Explanation 📝
